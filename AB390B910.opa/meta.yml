@@ -1,0 +1,22 @@
+id: AB390B910
+title: Toh_283-The_Sutra_of_the_Three_Bodies-v1
+type: translation
+pechas:
+- I6AD07CFC
+- I70D11113
+source_metadata:
+  creationtool: 84000-translation-memory
+  creationtoolversion: 1.0.0.0
+  datatype: PlainText
+  segtype: phrase
+  adminlang: en
+  srclang: bo
+  o-tmf: TEI
+  creationdate: '2018-09-06T15:43:59.689Z'
+  creationid: BG
+  eft-text-id: UT22084-068-017
+  xmlns-eft: http://read.84000.co/ns/1.0
+  title: Toh_283-The_Sutra_of_the_Three_Bodies-v1
+alignment_to_base:
+  I6AD07CFC/5E63: 63AE
+  I70D11113/1AA5: 63AE
